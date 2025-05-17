@@ -1,0 +1,2 @@
+C:/Users/Goutham C S/Desktop/Proj1/virtual_tray_app/android/app/.cxx/RelWithDebInfo/493e5k1a/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Goutham C S/Desktop/Proj1/virtual_tray_app/android/app/.cxx/RelWithDebInfo/493e5k1a/x86_64/CMakeFiles/rebuild_cache.dir
